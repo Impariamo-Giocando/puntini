@@ -1,6 +1,5 @@
 {
   "name": "puntini",
-  "private": true,
   "pnpm": {
     "neverBuiltDependencies": []
   },
